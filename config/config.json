@@ -1,0 +1,27 @@
+{
+  "govTokenMint": "1000000",
+  "govTokenLock": "1000000",
+  "spellRegistline": "2",
+  "spellRegistIndate": "1",
+  "spellRegistSigners": ["0x0dCC8b2240c7406100B9544Bd4e2a7Db5E0219A6", "0x483f21C9542b2Fa9D918dA8BCFeB4d05a809E081","0xEb43bE4aa6101427154178F13d2661e5B2090a9F","0x0551fB497B436fdBDB6109B6F8c4949C7e16b6ac"],
+  "pauseDelay": "0",
+  "vat_line": "778000000",
+  "vow_wait": "561600",
+  "vow_dump": "250",
+  "vow_sump": "50000",
+  "vow_bump": "10000",
+  "vow_hump": "500000",
+  "cat_box": "10000000",
+  "jug_base": "0",
+  "pot_dsr": "3",
+  "end_wait": "262800",
+  "esm_min": "50000",
+  "flap_beg": "2",
+  "flap_ttl": "1800",
+  "flap_tau": "259200",
+  "flop_beg": "3",
+  "flop_pad": "20",
+  "flop_ttl": "21600",
+  "flop_tau": "259200"
+}
+
